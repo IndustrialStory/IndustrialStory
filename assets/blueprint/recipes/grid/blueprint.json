@@ -1,0 +1,9 @@
+{
+  ingredientPattern: "PP  PP",
+  width: 2,
+  height: 2,
+  ingredients: {
+    "P": { type: "item", code: "game:cattailtops"}
+  },
+  output: { type: "item", code: "blueprint"}
+}

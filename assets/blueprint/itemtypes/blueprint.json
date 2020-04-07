@@ -1,0 +1,8 @@
+{
+  code: "blueprint",
+  creativeinventory: { "general": ["*"] },
+  texture: { base: "blueprint" }
+  variantgroups: [
+    { code: "type", states: ["empty", "saw", "sifter" ] },
+  ],
+}
