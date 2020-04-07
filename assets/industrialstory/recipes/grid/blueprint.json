@@ -1,7 +1,7 @@
 {
-  ingredientPattern: "PP  PP",
-  width: 2,
-  height: 2,
+  ingredientPattern: "P",
+  width: 1,
+  height: 1,
   ingredients: {
     "P": { type: "item", code: "game:cattailtops"}
   },
