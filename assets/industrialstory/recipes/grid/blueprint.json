@@ -5,5 +5,5 @@
   ingredients: {
     "P": { type: "item", code: "game:cattailtops"}
   },
-  output: { type: "item", code: "blueprint"}
+  output: { type: "item", code: "blueprint-empty"}
 }
